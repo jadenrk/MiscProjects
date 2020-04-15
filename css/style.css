@@ -69,7 +69,6 @@ nav a {
 
 nav a:hover {
     text-decoration: none;
-    /*background-color: rgb(199, 239, 207, 0.75);*/
     text-shadow: 0 0 3px rgb(224, 205, 205);
     transition: background-color .5s, color .2s text-shadow .2s;
 }
@@ -92,6 +91,22 @@ h3 {
     font-weight: 600;
 }
 
+button {
+    color: #fff;
+    background-color: rgb(37, 39, 43);
+    border: none;
+    border-radius: 15px;
+    padding: 0.5rem;
+}
+
+button:hover {
+    color: rgb(185, 202, 195);
+    background-color: #202225;
+    border: none;
+    border-radius: 15px;
+    padding: 0.5rem;
+}
+
 
 /* GEM GENERATOR SPECIFIC */
 
@@ -102,7 +117,7 @@ h3 {
 #gemGenResult {
     background-color: rgb(255, 255, 255, 0.1);
     height: 5rem;
-    margin: 1em 4em;
+    margin: 1em;
     font-weight: 700;
     line-height: 5rem;
     font-size: 1.5rem;
