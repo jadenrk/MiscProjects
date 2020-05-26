@@ -38,7 +38,7 @@ section::after {
 }
 
 a {
-    color: #FE5F55;
+    color: rgb(252, 109, 98);
     text-decoration: none;
     font-weight: 700;
 }
@@ -155,14 +155,5 @@ button:hover {
     .column {
         float: left;
         padding: 1rem;
-    }
-    h1 {
-        font-size: 2rem;
-    }
-    h2 {
-        font-size: 1.5rem;
-    }
-    h3 {
-        font-size: 1.25rem;
     }
 }
