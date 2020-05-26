@@ -26,6 +26,23 @@ body {
     margin: 1em;
 }
 
+a {
+    font-weight: bold;
+    color: rgb(185, 113, 85);
+    text-decoration: none;
+    border-bottom: solid 0.5px rgb(185, 113, 85);
+}
+
+a:hover {
+    color: rgb(224, 145, 114);
+    border-bottom: solid 1.5px rgb(185, 113, 85);
+}
+
+li {
+    display: block;
+    padding: 0.75em;
+}
+
 h1 {
     font-family: 'monochrome';
     font-weight: normal;
@@ -53,4 +70,9 @@ h2 {
 
 #write {
     word-wrap: break-word;
+}
+
+#write li {
+    display: inline-block;
+    padding: 1em;
 }
