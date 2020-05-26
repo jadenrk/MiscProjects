@@ -50,3 +50,7 @@ h2 {
     width: 25%;
     height: 100%;
 }
+
+#write {
+    word-wrap: break-word;
+}

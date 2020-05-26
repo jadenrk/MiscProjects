@@ -10,10 +10,10 @@ let txt = [
     '<br> Checking clearance level...',
     '<br>CLEARANCE DETERMINED. You may proceed.',
     '<br>',
-    '<br> KEY: VGhhbmsgeW91IGZvciB2aXNpdGluZyB0aGlzIGZhbiBzaXRlLiBUaGlzIHNpdGUgaXMgZGV2b3Rl<br>' +
-    'ZCB0byBkb2N1bWVudGluZyBjYW5vbiBhbmQgZmFuLWRldGVybWluZWQgZmFjdHMgYWJvdXQgdGhlIEJsYWNrIE9<br>' +
-    'yZ2FuaXphdGlvbiBhbmQgb3RoZXIgRGV0ZWN0aXZlIENvbmFuIC8gTWFnaWMgS2FpdG8gY29udGVudC4gVGhpcy<br>' +
-    'BzaXRlIGlzIGRlc2lnbmVkIHByaW1hcmlseSB3aXRoIGJsYWNrIG9yZyBwZXJzcGVjdGl2ZSBpbiBtaW5kLiBQb<br>' +
+    '<br> KEY: VGhhbmsgeW91IGZvciB2aXNpdGluZyB0aGlzIGZhbiBzaXRlLiBUaGlzIHNpdGUgaXMgZGV2b3Rl' +
+    'ZCB0byBkb2N1bWVudGluZyBjYW5vbiBhbmQgZmFuLWRldGVybWluZWQgZmFjdHMgYWJvdXQgdGhlIEJsYWNrIE9' +
+    'yZ2FuaXphdGlvbiBhbmQgb3RoZXIgRGV0ZWN0aXZlIENvbmFuIC8gTWFnaWMgS2FpdG8gY29udGVudC4gVGhpcy' +
+    'BzaXRlIGlzIGRlc2lnbmVkIHByaW1hcmlseSB3aXRoIGJsYWNrIG9yZyBwZXJzcGVjdGl2ZSBpbiBtaW5kLiBQb' +
     'GVhc2UgZW5qb3ku',
     '<br> <h2>Access Granted.</h2>',
     '<li><a href="org/org.html">ORGANIZATION</li></a>',
