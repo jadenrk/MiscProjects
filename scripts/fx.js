@@ -16,10 +16,10 @@ let txt = [
     'BzaXRlIGlzIGRlc2lnbmVkIHByaW1hcmlseSB3aXRoIGJsYWNrIG9yZyBwZXJzcGVjdGl2ZSBpbiBtaW5kLiBQb<br>' +
     'GVhc2UgZW5qb3ku',
     '<br> <h2>Access Granted.</h2>',
-    '<li><a href="org/org.html">Organization</li></a>',
-    '<li>Projects</li>',
-    '<li>Observation</li>',
-    '<li>Alliance</li>',
+    '<li><a href="org/org.html">ORGANIZATION</li></a>',
+    '<li><a href="org/project/dir.html">PROJECTS</a></li>',
+    '<li><a href="watch/poe.html">OBSERVATION</a></li>',
+    '<li><a href="alliance/dir.html">ALLIANCE</a></li>',
     '<br>select one to proceed.'
 ]
 
